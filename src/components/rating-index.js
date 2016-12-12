@@ -56,7 +56,7 @@ class RatingTable extends Component {
                 <thead>
                 <tr>
                    <th>Name</th>
-                    <th>Rating</th>
+                    <th>Elo Rating</th>
                     <th>Number Of Battles Fought</th>
                 </tr>
                 </thead>
